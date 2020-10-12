@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4fa59d5d-95ea-463c-a0ec-14ed2abbd504" name="https://github.com/" url="https://github.com/">
+        <fileTransfer accessType="SFTP" sshConfigId="0e56ad24-0409-46e5-8eaf-d79feaf2c5a0" sshConfig="https://github.com/">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

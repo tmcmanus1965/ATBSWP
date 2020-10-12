@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" id="0e56ad24-0409-46e5-8eaf-d79feaf2c5a0" customName="https://github.com/" nameFormat="CUSTOM">
+        <option name="customName" value="https://github.com/" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
